@@ -1,0 +1,5 @@
+﻿System.Sbyte ? edwdw;
+int [] dw1,gh;
+int  km;
+int@rem;
+double[]? fd;
